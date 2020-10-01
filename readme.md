@@ -11,3 +11,5 @@ Create a `config.ts` file inside the `src` folder and add a mongo connection str
 `npm i` to install dependencies
 
 `npm start` to get going
+
+`npm run build` will build the js :)
